@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Day_04",
+            "database": "${workspaceFolder:TESDA}/Day_05/Activity/Day04_practice.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
