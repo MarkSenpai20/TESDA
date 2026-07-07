@@ -5,6 +5,12 @@
             "driver": "SQLite",
             "name": "Day_04",
             "database": "${workspaceFolder:TESDA}/Day_05/Activity/Day04_practice.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Day_06",
+            "database": "${workspaceFolder:TESDA}/Day_05/Activity/Day06_practice.db"
         }
     ],
     "sqltools.useNodeRuntime": true

@@ -26,6 +26,8 @@ This folder contains the Introduction to Databases & SQL coursework (covering bo
 * **`Activity/`**: Contains the student handouts, instruction PDFs, and practice SQLite databases.
   * *Notable files:* `Day05_Student_Handout.pdf`, `Day06_Student_Activities.pdf`, and the `day_05_ice_breaker_exercise.md` folder containing 13 SQL practice exercises.
 * **`Answers/`**: Contains the completed SQL exercises and journal entries ready for checking.
+  * **`test.sql`**: Raw SQL queries for the Day 5 Ice Breaker exercises.
+  * **`Day_06.sql`**: Raw SQL queries for the Day 6 Activity 2 exercises.
   * **`Day05_Ice_Breaker_Answers.docx`**: Completed answers and SQL query outputs for the 13 Day 5 Ice Breaker Exercises.
   * **`Day06_Activity2_Mark_Jhon_Angelo_Cruz.docx`**: Completed queries and row counts for the 10 queries assigned in "Activity 2 - Your First Queries".
   * **`Day06_Journal7_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7.
