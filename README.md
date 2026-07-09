@@ -28,7 +28,9 @@ This folder contains the Introduction to Databases & SQL coursework (covering bo
 * **`Answers/`**: Contains the completed SQL exercises and journal entries ready for checking.
   * **`test.sql`**: Raw SQL queries for the Day 5 Ice Breaker exercises.
   * **`Day_06.sql`**: Raw SQL queries for the Day 6 Activity 2 exercises.
-  * **`Day05_Ice_Breaker_Answers.docx`**: Completed answers and SQL query outputs for the 13 Day 5 Ice Breaker Exercises.
+  * **`SQL Machine Problems/sql_machine_problems.sql`**: Contains the raw executable SQL logic for the 4 Machine Problems.
+  * **`Day05_Ice_Breaker_Answers_MarkJhonAngeloCruz.docx`**: Completed answers and SQL query outputs for the 13 Day 5 Ice Breaker Exercises.
+  * **`Day06_Activity1_MarkJhonAngeloCruz.png`**: Screenshot of successfully querying the employees table.
   * **`Day06_Activity2_Mark_Jhon_Angelo_Cruz.docx`**: Completed queries and row counts for the 10 queries assigned in "Activity 2 - Your First Queries".
   * **`Day06_Journal7_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7.
 
