@@ -32,6 +32,15 @@ This folder contains the Introduction to Databases & SQL coursework (covering bo
   * **`Day06_Activity2_Mark_Jhon_Angelo_Cruz.docx`**: Completed queries and row counts for the 10 queries assigned in "Activity 2 - Your First Queries".
   * **`Day06_Journal7_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7.
 
+### 📂 Day_07
+This folder contains the SQL Filtering & Sorting Practice coursework (Hospital Patients Dataset).
+* **`Given_Activities/`**: Contains the student handouts and practice SQLite database.
+  * *Notable files:* `Day07_Student_Activities.pdf`, `Day07_practice.db`.
+* **`Answers/`**: Contains the completed SQL exercises, scenarios, and journal entries ready for checking.
+  * **`Day07_SQL_Exercises_Mark_Jhon_Angelo_Cruz.sql`**: Completed queries and row counts for the 15 Filter & Sort Exercises.
+  * **`Day07_Hospital_Queries_Mark_Jhon_Angelo_Cruz.sql`**: Completed Real-World Hospital Scenarios with interpretations.
+  * **`Day07_Journal_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7.
+
 ### 📂 Certif
 Contains certification requirements and related documents.
 * **`GAD/`**: Gender and Development module.
