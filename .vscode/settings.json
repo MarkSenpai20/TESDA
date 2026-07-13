@@ -17,6 +17,12 @@
             "driver": "SQLite",
             "name": "Day_07",
             "database": "C:/Users/cryzb/OneDrive/Desktop/MJ/TESDA/Day_07/Given_Activities/Day07_practice.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Day_08",
+            "database": "${workspaceFolder:TESDA}/Day_08/Activities/Day08_practice.db"
         }
     ],
     "sqltools.useNodeRuntime": true

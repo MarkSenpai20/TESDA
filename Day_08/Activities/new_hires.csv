@@ -1,0 +1,13 @@
+employee_id,first_name,last_name,department,position,salary,hire_date,city
+21,Bea,Alonzo,Sales,Sales Associate,26000,2023-06-05,Manila
+22,Carlo,Mercado,IT,Junior Developer,33000,2023-07-10,Cebu
+23,Diane,Robles,,Trainee,23000,2023-08-14,Quezon City
+24,Efren,Salcedo,Finance,Bookkeeper,28000,2023-09-01,Manila
+25,Faith,Ignacio,Marketing,Marketing Assistant,25000,2023-10-16,Davao
+26,Gio,Panganiban,IT,IT Support,,2023-11-06,Cebu
+27,Hazel,Buenaventura,HR,HR Assistant,24000,2024-01-08,Makati
+28,Ivan,Lorenzo,Sales,Sales Associate,27000,2024-02-12,Manila
+29,Jenny,Adriano,,Trainee,23000,2024-03-04,Baguio
+30,Kiko,Villar,Finance,Accounting Clerk,29000,2024-04-22,Makati
+31,Lara,Domingo,Marketing,Content Assistant,26000,2024-05-13,Quezon City
+32,Miko,Serrano,IT,Junior Developer,34000,2024-06-02,Davao
