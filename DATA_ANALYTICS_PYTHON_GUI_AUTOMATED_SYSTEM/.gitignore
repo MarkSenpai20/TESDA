@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Configs/Secrets
+*.env
+config/secrets.json

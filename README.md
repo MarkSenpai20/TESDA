@@ -43,6 +43,24 @@ This folder contains the SQL Filtering & Sorting Practice coursework (Hospital P
   * **`Day07_Hospital_Queries_Mark_Jhon_Angelo_Cruz.sql`**: Completed Real-World Hospital Scenarios with interpretations.
   * **`Day07_Journal_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7.
 
+### 📂 Day_08
+This folder contains the Importing & Structuring Data coursework (CSV to SQLite, Data Types & NULLs).
+* **`Day 8 Importing & Structuring Data/Activity/`**: Contains the given tasks, the practice database, and the raw `new_hires.csv` dataset.
+* **`Day 8 Importing & Structuring Data/Answer/`**: Contains the completed SQL scripts and documents.
+  * **`Day08_Activity1_Mark_Jhon_Angelo_Cruz.sql`**: SQL logic to CREATE and INSERT into the interns table, demonstrating structure and constraints.
+  * **`Day08_Activity2_Mark_Jhon_Angelo_Cruz.docx`**: Import QA Ritual demonstrating Row Counts, Eyeball Checks, and Sanity Checks on the new hires data.
+  * **`Day08_Activity3_Mark_Jhon_Angelo_Cruz.sql`**: Completed queries hunting for NULL values and building the First-Week Report, with inline humanized answers.
+  * **`Day08_Journal7_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #7 on data structure and missing data.
+
+### 📂 Day_09
+This folder contains the Data Cleaning in Excel (Power Query) coursework.
+* **`Day 9 Data Cleaning in Excel — Power Query/Activity/`**: Contains the student instruction PDF and the extremely messy `customers_raw.csv`.
+* **`Day 9 Data Cleaning in Excel — Power Query/Answer/`**: Contains the fully cleaned workbook and accompanying reports.
+  * **`Day09_Activity1_Mark_Jhon_Angelo_Cruz.docx`**: Exploration answers mapping out the exact mess found in the raw CSV (like capitalization issues and missing emails).
+  * **`Day09_Cleaned_Mark_Jhon_Angelo_Cruz.xlsx`**: The beautifully transformed output containing the `Clean_Data` sheet and a thorough 7-step `Cleaning_Log`.
+  * **`Day09_Activity3_Mark_Jhon_Angelo_Cruz.docx`**: Final analytical answers for Sales based on the cleaned data, plus the successful "Refresh Test" proving the cleaning pipeline is automated.
+  * **`Day09_Journal8_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #8 reflecting on the power of non-destructive cleaning.
+
 ### 📂 Certif
 Contains certification requirements and related documents.
 * **`GAD/`**: Gender and Development module.

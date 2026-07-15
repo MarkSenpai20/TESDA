@@ -1,0 +1,9 @@
+{
+    "database": {
+        "type": "sqlite",
+        "connection_string": "sqlite:///data.db"
+    },
+    "excel": {
+        "default_output_dir": "./output"
+    }
+}
