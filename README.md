@@ -61,6 +61,15 @@ This folder contains the Data Cleaning in Excel (Power Query) coursework.
   * **`Day09_Activity3_Mark_Jhon_Angelo_Cruz.docx`**: Final analytical answers for Sales based on the cleaned data, plus the successful "Refresh Test" proving the cleaning pipeline is automated.
   * **`Day09_Journal8_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #8 reflecting on the power of non-destructive cleaning.
 
+### 📂 Day_10
+This folder contains the Data Cleaning in SQL coursework (Text Functions, Duplicates & Standardization).
+* **`Activities/`**: Contains the student instruction PDF and the dirty `Day10_practice.db` database.
+* **`Answers/`**: Contains the completed diagnostic report, surgery script, proof report, and journal.
+  * **`Day10_Activity1_Mark_Jhon_Angelo_Cruz.docx`**: Full diagnostic findings for 6 dirt checks plus the completed Dirt Report table.
+  * **`Day10_Surgery_Mark_Jhon_Angelo_Cruz.sql`**: The complete cleaning script with SELECT previews, UPDATE statements, before/after counts, and inline comments.
+  * **`Day10_Activity3_Mark_Jhon_Angelo_Cruz.docx`**: 7-item Prove & Report with cross-tool proof, tier analysis, top spenders, and the handover note.
+  * **`Day10_Journal9_Mark_Jhon_Angelo_Cruz.docx`**: Completed Learning Journal Entry #9 on the Surgeon's Rules and the CAST trap.
+
 ### 📂 Certif
 Contains certification requirements and related documents.
 * **`GAD/`**: Gender and Development module.
